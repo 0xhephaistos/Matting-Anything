@@ -131,3 +131,8 @@ checkpoints/
 outputs/
 logs/
 scripts/
+
+# Ignore specifig models
+checkpoints/*
+segment-anything/checkpoints/*
+.DS_Store
